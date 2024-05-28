@@ -5,8 +5,9 @@ Ich interessiere mich für Kunst und Politik und lese gerne darüber.
 
 Ich freue mich hier zu sein!
 
-![landscape](https://github.com/PnrAydn/PnrAydn/assets/170604416/ffb1737f-e86a-429e-b75e-4f396d43f95a)
+## Das ist wo ich her komme: Istanbul
 
+![description of image](img-istanbul.webp)
 [gif](https://tenor.com/view/error-wait-computer-download-cat-gif-10480536)
 #### Hier sind meine wichtigsten Ziele für den nächsten Monat:
 - HTML, JavaScript and CSS lernen
