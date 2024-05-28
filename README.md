@@ -7,8 +7,7 @@ Ich freue mich hier zu sein!
 
 ![landscape](https://github.com/PnrAydn/PnrAydn/assets/170604416/ffb1737f-e86a-429e-b75e-4f396d43f95a)
 
-[gif](https://tenor.com/view/download-gif-11997403700690453464)
-
+[gif](https://tenor.com/view/error-wait-computer-download-cat-gif-10480536)
 #### Hier sind meine wichtigsten Ziele für den nächsten Monat:
 - HTML, JavaScript and CSS lernen
 - Jedes Monat ein Buch lesen
