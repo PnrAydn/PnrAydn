@@ -1,15 +1,21 @@
-<h2>Hi, Hier ist Pinar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+# Hi everyone, I'm Pinar! 👋
 
-Ich bin 31 Jahre alt und lebe seit 1,5 Jahren in Deutschland. Bevor ich nach Deutschland umgezogen bin, habe ich 7 Jahre lang als Editorin gearbeitet. Gerade mache ich gleichzeitig meinen Master und besuche einen Software Development Kurs.
-Ich interessiere mich für Kunst und Politik und lese gerne darüber.
+🏠 I currently live in Hamburg.
 
-Ich freue mich hier zu sein!
+## more about me 👀
 
-## Das ist wo ich her komme: Istanbul
+- was born and raised in Istanbul
+- mom to a cat
+- have 7 years of editorial expreince
+- challenging my 30s with a new country, new languages and a new social life
+- a master's student at the Uni Jena
+- a passionate bookish
 
-![description of image](img-istanbul.webp)
+### Here where I come from: 🌱
+![description of image](img-istanbul.jpg)
 
-#### Hier sind meine wichtigsten Ziele für den nächsten Monat:
-- HTML, JavaScript und CSS lernen
-- Jedes Monat ein Buch lesen
-- Selbstentwicklung konzentieren
+#### Note and goals to self this year 🎯
+- learn HTML,JavaScript,CSS and React
+- focus on self-improvement
+- reading regularly as soon as possible
+- do regular workouts
