@@ -15,7 +15,7 @@
 ![description of image](img-istanbul.jpg)
 
 #### Note and goals to self this year 🎯
-- learn HTML,JavaScript,CSS and React
+- learn HTML, JavaScript, CSS and React
 - focus on self-improvement
 - reading regularly as soon as possible
 - do regular workouts
