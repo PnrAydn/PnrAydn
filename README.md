@@ -8,7 +8,7 @@ Ich freue mich hier zu sein!
 ## Das ist wo ich her komme: Istanbul
 
 ![description of image](img-istanbul.webp)
-[gif](https://tenor.com/view/error-wait-computer-download-cat-gif-10480536)
+
 #### Hier sind meine wichtigsten Ziele für den nächsten Monat:
 - HTML, JavaScript and CSS lernen
 - Jedes Monat ein Buch lesen
