@@ -10,6 +10,6 @@ Ich freue mich hier zu sein!
 ![description of image](img-istanbul.webp)
 
 #### Hier sind meine wichtigsten Ziele für den nächsten Monat:
-- HTML, JavaScript and CSS lernen
+- HTML, JavaScript und CSS lernen
 - Jedes Monat ein Buch lesen
 - Selbstentwicklung konzentieren
