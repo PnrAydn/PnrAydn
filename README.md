@@ -17,5 +17,5 @@
 #### Note and goals to self this year 🎯
 - learn HTML, JavaScript, CSS and React
 - focus on self-improvement
-- reading regularly as soon as possible
+- read regularly as soon as possible
 - do regular workouts
